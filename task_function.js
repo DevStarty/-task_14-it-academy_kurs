@@ -37,7 +37,6 @@ function ConvertsNumbers2(a, b, c) {
 }
 
 
-
 // 5 funkcja
 function allNumbers(addNumbers, addNumbers2, addNumbers3, ConvertsNumbers, ConvertsNumbers2) {
     console.log(addNumbers);
@@ -48,8 +47,6 @@ function allNumbers(addNumbers, addNumbers2, addNumbers3, ConvertsNumbers, Conve
 
 
 }
-
-
 
 
 addNumbers(10);
